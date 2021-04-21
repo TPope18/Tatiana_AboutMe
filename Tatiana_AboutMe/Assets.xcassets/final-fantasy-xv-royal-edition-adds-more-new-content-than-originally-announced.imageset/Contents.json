@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "final-fantasy-xv-royal-edition-adds-more-new-content-than-originally-announced.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
